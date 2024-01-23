@@ -36,7 +36,7 @@ multiprocess==0.70.15
 mypy-extensions==1.0.0
 nest-asyncio==1.5.9
 networkx==3.2.1
-numpy==1.24
+numpy==1.23
 packaging==23.2
 pandas==2.1.4
 parso==0.8.3
@@ -69,7 +69,7 @@ tenacity==8.2.3
 tokenizers==0.15.0
 torch==2.1.2
 tornado==6.3.3
-torchvision==0.2.0
+torchvision==0.16.2
 tqdm==4.66.1
 traitlets==5.14.1
 transformers==4.36.2
